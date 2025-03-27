@@ -5,7 +5,7 @@
 <div id="invoicePdf">
     <div class="row">
         <div class="col-12 text-center mb-4">
-            <h1>Company Name</h1>
+            <h1>ILIYEEN</h1>
             <h3>Invoice <span id="invoice"></span></h3>
             <h5>Date: <span id="date"></span></h5>
             <p class="lead">Order Details</p>
@@ -50,6 +50,7 @@
             <div class="col-12 text-center mt-4">
                 <p>Thank you for your purchase!</p>
                 <p>For any inquiries, please contact us.</p>
+                <p>Phone: 0199972773, 0189373763</p>
             </div>
         </div>
 
